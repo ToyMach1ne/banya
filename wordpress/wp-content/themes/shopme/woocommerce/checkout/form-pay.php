@@ -26,7 +26,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 		<thead>
 			<tr>
 				<th class="product-name"><?php esc_html_e( 'Product', 'shopme' ); ?></th>
-				<th class="product-quantity"><?php esc_html_e( 'Qty', 'shopme' ); ?></th>
+				<th class="product-quantity"><?php esc_html_e( 'Кол-во', 'shopme' ); ?></th>
 				<th class="product-total"><?php esc_html_e( 'Totals', 'shopme' ); ?></th>
 			</tr>
 		</thead>

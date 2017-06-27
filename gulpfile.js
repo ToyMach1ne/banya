@@ -27,8 +27,8 @@ var paths = {
     dest: basePaths.dest + 'img/'
   },
   scripts: {
-    src: basePaths.src + 'js/**',
-    dest: basePaths.dest + 'js/'
+    src: basePaths.src,
+    dest: basePaths.dest
   },
   styles: {
     src: basePaths.src + 'scss/',

@@ -50,7 +50,7 @@ echo wc_get_stock_html( $product );
 
 			<div class="description_section_2 v_centered">
 
-				<span class="title"><?php echo esc_attr_x( 'Qty', 'Product quantity input tooltip', 'shopme' ) ?>:</span>
+				<span class="title"><?php echo esc_attr_x( 'Кол-во', 'Product quantity input tooltip', 'shopme' ) ?>:</span>
 
 				<?php
 				woocommerce_quantity_input( array(
