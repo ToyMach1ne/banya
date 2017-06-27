@@ -1,0 +1,1 @@
+<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Tue, 18 Apr 2017 21:21:11 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=\"UTF-8\""},"uri":"vemo.org.ua\/video\/spektakli-scenki\/feed","blog_id":1,"post":102,"key":"vemo.org.ua80\/video\/spektakli-scenki\/feed"}

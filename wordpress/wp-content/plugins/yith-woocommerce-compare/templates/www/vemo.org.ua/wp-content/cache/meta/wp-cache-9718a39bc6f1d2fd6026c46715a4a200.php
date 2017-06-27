@@ -1,0 +1,1 @@
+<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Tue, 18 Apr 2017 21:21:04 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=\"UTF-8\""},"uri":"vemo.org.ua\/fotogalereya\/shabbat\/feed","blog_id":1,"post":7,"key":"vemo.org.ua80\/fotogalereya\/shabbat\/feed"}
