@@ -733,10 +733,10 @@ if (!class_exists('SHOPME_WOOCOMMERCE_CONFIG')) {
 						<?php if ('yes' == get_option('woocommerce_manage_stock')): ?>
 							<?php if ($product->is_in_stock()): ?>
 								<?php esc_html_e('Availability:', 'shopme'); ?>
-								<span class="stock in-stock"><?php echo esc_html__('in stock', 'shopme'); ?></span>
+								<span class="stock in-stock"><?php echo esc_html__('В наличии', 'shopme'); ?></span>
 							<?php else: ?>
 								<?php esc_html_e('Availability:', 'shopme'); ?>
-								<span class="stock out-stock"><?php esc_html_e('out of stock', 'shopme') ?></span>
+								<span class="stock out-stock"><?php esc_html_e('Нет в наличии', 'shopme') ?></span>
 							<?php endif; ?>
 						<?php endif; ?>
 					</li>

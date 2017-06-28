@@ -1851,8 +1851,8 @@ header.shop-page-meta.top_box { border-bottom: 1px solid #eaeaea; }
     }
 
     .order-param-button a:hover {
-      background-color: #4ac4fa;
-      border-color: #4ac4fa;
+      background-color: #73380f;
+      border-color: #73380f;
       color: #fff;
       transition: color .1s ease, border-color .1s ease, background-color .1s ease;
     }

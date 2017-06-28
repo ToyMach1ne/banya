@@ -285,8 +285,8 @@ $shopme_elements[] = array(
     "rows"  => 10,
     "id"   => "440_content",
     "std"   => "<h1>404</h1>
-      <h3>" . esc_html__('Page Not Found!', 'shopme') ."</h3>
-      <p>" . esc_html__('We\'re sorry, but we can\'t find the page you were looking for. It\'s probably some thing we\'ve done wrong but now we know about it and we\'ll try to fix it. In the meantime, try one of these options:', 'shopme') . "</p>",
+      <h3>" . esc_html__('Страница не найдена!', 'shopme') ."</h3>
+      <p>" . esc_html__('Извините, но мы не можем найти страницу, которую вы искали. Вероятно, мы кое-что сделали неправильно, но теперь мы знаем об этом, и мы постараемся это исправить. Тем временем попробуйте один из следующих вариантов:', 'shopme') . "</p>",
     "desc"   => esc_html__("Enter your text for 404 page", 'shopme'),
   );
 

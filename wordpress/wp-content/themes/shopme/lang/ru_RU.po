@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: devshopme\n"
 "POT-Creation-Date: 2017-06-22 20:07+0300\n"
-"PO-Revision-Date: 2017-06-26 19:55+0300\n"
+"PO-Revision-Date: 2017-06-28 15:11+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -515,7 +515,7 @@ msgstr ""
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/metaboxes.php:250
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metadata/meta_values.php:92
 msgid "Default"
-msgstr ""
+msgstr "По умолчанию"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/admin/framework/config/register-theme-options.php:15
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/admin/framework/php/html-helper.class.php:541
@@ -2773,7 +2773,7 @@ msgstr ""
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/admin/framework/php/breadcrumb.class.php:189
 #, php-format
 msgid "Search results for &quot;%1$s&quot;"
-msgstr ""
+msgstr "Результаты поиска для &quot;%1$s&quot;"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/admin/framework/php/breadcrumb.class.php:191
 msgid "404 Not Found"
@@ -3445,7 +3445,7 @@ msgstr ""
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-composer/config/map.php:866
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-composer/modules/vc_shopme_image_video_gallery.php:85
 msgid "Image"
-msgstr ""
+msgstr "Изображение"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-composer/config/map.php:198
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-composer/config/map.php:869
@@ -3911,7 +3911,7 @@ msgstr ""
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-composer/config/map.php:655
 msgid "Images"
-msgstr ""
+msgstr "Изображения"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-composer/config/map.php:658
 msgid "Select images from media library."
@@ -5751,7 +5751,7 @@ msgstr ""
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/config.php:255
 #, php-format
 msgid "Already Sold: %s"
-msgstr ""
+msgstr "Продано: %s"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/config.php:256
 #, php-format
@@ -5779,7 +5779,7 @@ msgstr "Узнать больше"
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/config.php:696
 #, php-format
 msgid "%s in stock"
-msgstr "%s в продаже"
+msgstr "%s В наличии"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/config.php:697
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/config.php:700
@@ -5916,15 +5916,15 @@ msgstr "Сортировать по"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/php/ordering.class.php:92
 msgid "Click to order products"
-msgstr ""
+msgstr "Нажмите, чтобы заказать товары"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/php/ordering.class.php:142
 msgid "Click to order products ascending"
-msgstr ""
+msgstr "Нажмите, чтобы заказать продукцию по возрастанию"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/php/ordering.class.php:143
 msgid "Click to order products descending"
-msgstr ""
+msgstr "Нажмите, чтобы заказать товары по убыванию"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/widgets/class-wc-widget-products-specials.php:39
 msgid "Widget display a list or carousel of your products on your site."
@@ -5944,7 +5944,7 @@ msgstr ""
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/widgets/class-wc-widget-products-specials.php:59
 msgid "List Style"
-msgstr ""
+msgstr "Список"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-woocommerce/widgets/class-wc-widget-products-specials.php:67
 msgid "Enable autoplay"
@@ -5983,24 +5983,24 @@ msgstr ""
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/dokan/store.php:87
 msgid "No products were found of this seller!"
-msgstr ""
+msgstr "Не найдено ни одного продукта этого продавца!"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/inc/plugins/post-ratings/init.php:234
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/inc/plugins/post-ratings/init.php:333
 msgid "Post Ratings"
-msgstr ""
+msgstr "Рейтинг сообщений"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/inc/plugins/post-ratings/init.php:262
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/inc/plugins/post-ratings/init.php:327
 msgid "Single pages"
-msgstr ""
+msgstr "Отдельные страницы"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/inc/plugins/post-ratings/init.php:328
 msgid "Search results"
-msgstr ""
+msgstr "Результаты поиска"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/inc/plugins/post-ratings/init.php:338
 msgid "Global stats"
@@ -6957,20 +6957,20 @@ msgstr ""
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/inc/fields/autocomplete.php:74
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/inc/fields/autocomplete.php:89
 msgid "Delete"
-msgstr ""
+msgstr "Удалить"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/inc/fields/button.php:27
 msgid "Click me"
-msgstr ""
+msgstr "Нажми на меня"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/inc/fields/file-input.php:17
 msgid "Select File"
-msgstr ""
+msgstr "Выбрать файл"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/inc/fields/file-input.php:39
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/inc/fields/select.php:84
 msgid "Select"
-msgstr ""
+msgstr "Выбрать"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/includes/metaboxes/inc/fields/file.php:16
 #, php-format
@@ -7820,7 +7820,7 @@ msgstr "нет в наличии"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/wishlist-view.php:183
 msgid "In Stock"
-msgstr "в продаже"
+msgstr "В наличии"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/wishlist-view.php:194
 #, php-format
@@ -7914,7 +7914,7 @@ msgstr "Ваша корзина пуста."
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/cart/cart-empty.php:26
 msgid "Return To Shop"
-msgstr ""
+msgstr "Вернутся в магазин"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/cart/cart-totals.php:19
 msgid "Cart Totals"

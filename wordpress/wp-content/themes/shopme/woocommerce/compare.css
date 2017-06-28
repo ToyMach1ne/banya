@@ -122,12 +122,12 @@ table.compare-list .amount {
 table.compare-list .amount { margin-left: 5px; }
 
 table.compare-list td > span.amount,
-table.compare-list ins span.amount { color: #018bc8; }
+table.compare-list ins span.amount { color: #73380f; }
 
 .scheme_style_1 table.compare-list td > span.amount,
-.scheme_style_1 table.compare-list ins span.amount { color: #49b9c6; }
+.scheme_style_1 table.compare-list ins span.amount { color: #73380f; }
 
-table.compare-list .stock td span 				{ color: #54bd45; }
+table.compare-list .stock td span 				{ color: #f68121; }
 table.compare-list .stock td span.out-of-stock  { color: #ff0000; }
 
 table.compare-list .button,
@@ -136,8 +136,8 @@ table.compare-list .add_to_cart_button,
 table.compare-list .product_type_simple {
 	display: inline-block;
 	padding: 8px 20px 9px;
-	background-color: #4ac4fa;
-	border-color: #4ac4fa;
+	background-color: #73380f;
+	border-color: #73380f;
 	color: #fff;
 	font-size: 16px;
 	text-align: center;
@@ -157,7 +157,7 @@ table.compare-list .button:hover,
 table.compare-list .added_to_cart:hover,
 table.compare-list .add_to_cart_button:hover,
 table.compare-list .product_type_simple:hover {
-	background-color: #018bc8;
+	background-color: darken(#73380f, 10%);
 	color: #fff;
 }
 
