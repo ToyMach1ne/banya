@@ -1,6 +1,0 @@
-<Limit GET POST>
-	require valid-user
-</Limit>
-AuthType Basic
-AuthName "webstat"
-AuthUserFile /var/www/crazyyy/data/etc/vemo.org.ua.stat.passwd

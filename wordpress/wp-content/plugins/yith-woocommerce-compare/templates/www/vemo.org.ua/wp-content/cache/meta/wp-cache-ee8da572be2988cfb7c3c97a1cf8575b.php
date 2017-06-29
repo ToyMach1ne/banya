@@ -1,1 +1,0 @@
-<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Sat, 08 Apr 2017 06:23:42 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=\"UTF-8\""},"uri":"vemo.org.ua\/rosh-ashana-v-vinnice-evrejskij-novyj-god-5771.html\/feed","blog_id":1,"post":402,"key":"vemo.org.ua80\/rosh-ashana-v-vinnice-evrejskij-novyj-god-5771.html\/feed"}
