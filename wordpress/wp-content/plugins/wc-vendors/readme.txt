@@ -1,12 +1,12 @@
 === WC Vendors ===
-Contributors: wcvendors, digitalchild, bentasm1
+Contributors: digitalchild, benwcv, annawcvendors
 Tags: commission rate,  e-commerce, ecommerce, ebay, free, marketplace, multi seller, multi store, multi vendor, multistore, multivendor, multivendors, product vendor, product vendors, seller, shops, store, vendor, vendor shop, vendor system, vendors, wc multivendor, wc vendors, wc marketplace, wc market, woo vendors, woocommerce, woocommerce marketplace, woocommerce multi vendor, WooCommerce multivendor, woocommerce product vendors, WooCommerce vendors, yit, yith, yithemes
 Donate link: http://www.wcvendors.com/
 Author URI: http://www.wcvendors.com/
 Plugin URI: http://www.wcvendors.com/
 Requires at least: 4.4.0
-Tested up to: 4.7.1
-Stable tag: 1.9.11
+Tested up to: 4.8.0
+Stable tag: 1.9.12
 License: GPLv2 or later
 
 The free marketplace plugin for WooCommerce.  Now you can allow anyone to open a store on your site!

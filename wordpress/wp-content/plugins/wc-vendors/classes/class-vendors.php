@@ -188,7 +188,7 @@ class WCV_Vendors
 		// Add remainders on end to admin
 		$discount = $order->get_total_discount();
 		$shipping 	= round( ( $order->get_total_shipping() - $shipping_given ), 2 );
-		$tax 		= round(( $order->get_total_tax() + $order->get_shipping_tax() ) - $tax_given, 2); 
+		$tax 		= round( $order->get_total_tax() - $tax_given, 2); 
 		$total    	= ( $tax + $shipping ) - $discount;
 
 		if ( $group ) {
@@ -399,7 +399,7 @@ class WCV_Vendors
 	{
 		$vendor_id = self::get_vendor_id( $vendor_id );
 		$name      = $vendor_id ? get_user_meta( $vendor_id, 'pv_shop_name', true ) : false;
-		$shop_name = !$name ? get_userdata( $vendor_id )->user_login : $name;
+		$shop_name = ( ! $name && $vendor = get_userdata( $vendor_id ) ) ? $vendor->user_login : $name;
 
 		return $shop_name;
 	}
@@ -485,6 +485,7 @@ class WCV_Vendors
 	 * @return void
 	 */
 	public static function create_child_orders ( $order_id ) {
+
 		$order = wc_get_order( $order_id );
 		$items = $order->get_items();
 		$vendor_items = array();
