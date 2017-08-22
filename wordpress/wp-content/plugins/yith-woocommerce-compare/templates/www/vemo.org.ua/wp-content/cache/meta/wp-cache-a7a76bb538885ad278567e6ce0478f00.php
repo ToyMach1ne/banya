@@ -1,1 +1,0 @@
-<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Content-Type":"Content-Type: text\/html; charset=UTF-8","Last-Modified":"Last-Modified: Sat, 27 May 2017 09:39:04 GMT"},"uri":"vemo.org.ua\/knigi\/comment-page-1","blog_id":1,"post":340,"key":"vemo.org.ua80\/knigi\/comment-page-1526f9745f3bb5027120012a64ccfc035"}

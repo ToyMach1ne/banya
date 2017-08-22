@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: devshopme\n"
 "POT-Creation-Date: 2017-06-22 20:07+0300\n"
-"PO-Revision-Date: 2017-06-28 15:11+0300\n"
+"PO-Revision-Date: 2017-07-25 14:24+0300\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -5653,6 +5653,8 @@ msgid ""
 "I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
 "conditions</a>"
 msgstr ""
+"Я прочитал и принял <a href=\"%s\" target=\"_blank\">условия &amp; "
+"положения</a>"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/config-composer/shortcodes/templates/vc_mad_woocommerce_cart.php:636
 msgid "Place order"
@@ -7816,7 +7818,7 @@ msgstr "Бесплатно!"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/wishlist-view.php:180
 msgid "Out of Stock"
-msgstr "нет в наличии"
+msgstr "Нет в наличии"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/wishlist-view.php:183
 msgid "In Stock"
@@ -8038,11 +8040,11 @@ msgstr ""
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/checkout/form-coupon.php:28
 msgid "Have a coupon?"
-msgstr ""
+msgstr "Имеете купон?"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/checkout/form-coupon.php:28
 msgid "Click here to enter your code"
-msgstr ""
+msgstr "Нажмите сюда чтобы ввести код"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/checkout/form-login.php:14
 msgid "Returning customer?"
@@ -8305,7 +8307,7 @@ msgstr ""
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/loop/out-of-stock-flash.php:13
 msgid "Out of stock"
-msgstr ""
+msgstr "Нет в наличии"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/loop/sale-flash.php:39
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/single-product/sale-flash.php:37
@@ -8601,7 +8603,7 @@ msgstr ""
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/single-product/add-to-cart/variable.php:31
 msgid "This product is currently out of stock and unavailable."
-msgstr ""
+msgstr "Этого товара нет в наличии"
 
 #: G:\Dropbox\www\devshopme\wp-content\themes\shopme/woocommerce/single-product/add-to-cart/variable.php:42
 msgid "Clear"

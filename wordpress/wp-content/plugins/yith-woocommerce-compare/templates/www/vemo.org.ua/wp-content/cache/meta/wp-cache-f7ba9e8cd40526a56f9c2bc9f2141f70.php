@@ -1,1 +1,0 @@
-<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Sat, 08 Apr 2017 06:21:04 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=\"UTF-8\""},"uri":"vemo.org.ua\/pozdravlenie-ot-rebe-mixaila-s-pesaxom-2011.html\/feed","blog_id":1,"post":421,"key":"vemo.org.ua80\/pozdravlenie-ot-rebe-mixaila-s-pesaxom-2011.html\/feed"}

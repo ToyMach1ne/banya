@@ -64,6 +64,7 @@
 
 	</div><!--/ [layout]-->
 
+
 </div><!--/ #theme-wrapper-->
 
 <?php wp_footer(); ?>

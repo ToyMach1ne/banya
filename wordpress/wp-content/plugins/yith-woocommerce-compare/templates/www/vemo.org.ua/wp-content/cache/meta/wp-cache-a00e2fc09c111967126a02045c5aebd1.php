@@ -1,1 +1,0 @@
-<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Thu, 06 Apr 2017 16:34:34 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=\"UTF-8\""},"uri":"vemo.org.ua\/sukkot-prazdnik-kushhej-v-vinnice-25-sentyabrya-2010g.html\/feed","blog_id":1,"post":409,"key":"vemo.org.ua80\/sukkot-prazdnik-kushhej-v-vinnice-25-sentyabrya-2010g.html\/feed"}

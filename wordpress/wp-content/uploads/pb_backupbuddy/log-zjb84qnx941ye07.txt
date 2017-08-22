@@ -1,0 +1,2 @@
+[Jun 28, 2017 18:38:39 3-error] <span class="pb_label pb_label">Important</span> <b>Set an ImportBuddy password on the <a href="http://banya.dev/wp-admin/admin.php?page=pb_backupbuddy_settings">Settings</a> page before attempting to Migrate to a new server.</b> Error Code: 
+[Jun 28, 2017 18:41:42 3-error] <span class="pb_label pb_label">Important</span> <b>Set an ImportBuddy password on the <a href="http://banya.dev/wp-admin/admin.php?page=pb_backupbuddy_settings">Settings</a> page before attempting to Migrate to a new server.</b> Error Code: 

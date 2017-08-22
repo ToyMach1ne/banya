@@ -6001,6 +6001,18 @@ Headers:  1em 'Roboto' sans-serif;
     margin-bottom: 15px;
   }
 
+/* Single Product page*/
+.single-product input[type="radio"] + label::before,
+    input[type="checkbox"] + label::before {
+      border:1px solid #54bd45;
+    }
+.seo_archive_text {
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 14px;
+    color: #000;
+}
+
   /*  Share Links
   /* --------------------------------------------- */
 
@@ -6557,7 +6569,6 @@ Headers:  1em 'Roboto' sans-serif;
     .footer_section_2 {
       padding-top: 20px;
     }
-
     .footer_section_3 {
       padding-top: 25px;
       padding-bottom: 25px;

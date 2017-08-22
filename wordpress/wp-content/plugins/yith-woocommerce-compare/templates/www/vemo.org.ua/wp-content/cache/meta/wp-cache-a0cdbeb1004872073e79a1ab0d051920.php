@@ -1,1 +1,0 @@
-<?php die(); ?>{"headers":{"Vary":"Vary: Cookie","Last-Modified":"Last-Modified: Sat, 08 Apr 2017 04:20:10 GMT","Content-Type":"Content-Type: application\/rss+xml; charset=\"UTF-8\""},"uri":"vemo.org.ua\/11-dekabrya-2010-xanukalnyj-koncert-v-vinnice.html\/feed","blog_id":1,"post":413,"key":"vemo.org.ua80\/11-dekabrya-2010-xanukalnyj-koncert-v-vinnice.html\/feed"}
